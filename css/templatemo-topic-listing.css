@@ -1103,7 +1103,7 @@ blockquote {
   }
 
   .featured-section {
-    border-radius: 0 0 80px 80px;
+    /* border-radius: 0 0 80px 80px; */
     padding-bottom: 50px;
   }
 
